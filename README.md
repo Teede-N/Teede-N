@@ -2,6 +2,8 @@
 
 **Data Scientist Junior** · Étudiant en Master **Big Data & Intelligence Artificielle** (ESTIAM Lyon) · Fondateur de **[Teedaïk](https://teedaik.com)** et de **[Solution IA](https://github.com/Teede-N/solution-ia)**
 
+🌐 **Portfolio : [teede-n.github.io](https://teede-n.github.io)**
+
 Je relie les données et le terrain : en alternance chez **ASS Transport** (PME de transport routier de marchandises, Île-de-France), je croise les données **Finance, RH et Exploitation** pour aider la direction à décider. En parallèle, je conçois et je développe des plateformes web autour de l'IA et de l'éducation.
 
 Formé aux **mathématiques** (Licence, École normale supérieure du Bénin), j'aime rendre les choses complexes simples à comprendre, que ce soit un modèle, un tableau de bord ou un concept d'IA.
@@ -55,6 +57,7 @@ Formé aux **mathématiques** (Licence, École normale supérieure du Bénin), j
 
 ## 📫 Me contacter
 
+- 🌐 Portfolio : [teede-n.github.io](https://teede-n.github.io)
 - 💼 LinkedIn : [linkedin.com/in/teede-noudamadjo](https://www.linkedin.com/in/teede-noudamadjo)
 - ✉️ Email : teedeaugustinnoudamadjo41@gmail.com
 - 🌍 Teedaïk : [teedaik.com](https://teedaik.com)
