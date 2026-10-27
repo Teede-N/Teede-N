@@ -4,7 +4,7 @@
 
 🌐 **Portfolio : [teede-n.github.io](https://teede-n.github.io)**
 
-Je relie les données et le terrain : en alternance chez **ASS Transport** (PME de transport routier de marchandises, Île-de-France), je croise les données **Finance, RH et Exploitation** pour aider la direction à décider. En parallèle, je conçois et je développe des plateformes web autour de l'IA et de l'éducation.
+Je relie les données et le terrain : je transforme des données métier (finance, RH, opérations) en indicateurs fiables et en outils d'aide à la décision. En parallèle, je conçois et je développe des plateformes web autour de l'IA et de l'éducation.
 
 Formé aux **mathématiques** (Licence, École normale supérieure du Bénin), j'aime rendre les choses complexes simples à comprendre, que ce soit un modèle, un tableau de bord ou un concept d'IA.
 
@@ -51,7 +51,6 @@ Formé aux **mathématiques** (Licence, École normale supérieure du Bénin), j
 
 - **Master Big Data & IA**, ESTIAM Lyon (en cours)
 - **Licence de mathématiques**, École normale supérieure, Bénin
-- **Data Scientist (alternance)**, ASS Transport
 
 ---
 
