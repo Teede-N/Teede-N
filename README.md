@@ -25,6 +25,7 @@ Formé aux **mathématiques** (Licence, École normale supérieure du Bénin), j
 | Projet | Description | Stack |
 |---|---|---|
 | **[rag-doc-assistant](https://github.com/Teede-N/rag-doc-assistant)** | Assistant documentaire RAG avec banc d'évaluation (Recall, MRR, nDCG, calibration de l'abstention en validation croisée, ancrage des réponses), générateur extractif ou Claude, résistance aux injections. | Python · scikit-learn · spaCy · Streamlit |
+| **[email-to-case-eval](https://github.com/Teede-N/email-to-case-eval)** | Validation humain-sur-la-boucle d'un agent IA e-mail → dossier : corpus multilingue, KPI hebdomadaires par pays et par champ, go / no-go, bugs structurés, tests d'API, critères Gherkin. | Python · FastAPI · pytest-bdd · Streamlit |
 | **[assistant-commercial-mcp](https://github.com/Teede-N/assistant-commercial-mcp)** | Assistant IA pour une équipe commerciale : serveur MCP (7 outils), agent tool use, RAG sur guides internes, sécurité aperçu → confirmation. | Python · MCP · API Claude |
 | **[ci-preanalyse-agent](https://github.com/Teede-N/ci-preanalyse-agent)** | Agent qui pré-analyse les échecs d'intégration continue d'un firmware C : outils tracés en lecture seule, prompts versionnés, mesure des gains et des coûts. | Python · C · GitHub Actions |
 | **[cgp-automatisations](https://github.com/Teede-N/cgp-automatisations)** | Automatisations d'un cabinet de gestion de patrimoine : fiabilisation CRM HubSpot, relances, reporting, workflows n8n, piloté avec Claude Code. | Python · n8n · HubSpot · Claude Code |
@@ -67,7 +68,7 @@ Formé aux **mathématiques** (Licence, École normale supérieure du Bénin), j
 ## 🛠️ Compétences
 
 **IA & agents**
-`LLM` `Agents IA (tool use)` `Serveurs MCP` `RAG` `Évaluation de RAG` `Prompt engineering` `Claude Code`
+`LLM` `Agents IA (tool use)` `Serveurs MCP` `RAG` `Évaluation de RAG` `Validation d'agents IA` `Prompt engineering` `Claude Code`
 
 **Data & BI**
 `Python` `SQL` `DuckDB` `Statistique inférentielle` `PySpark` `Databricks` `Snowflake` `Dataiku DSS` `Power BI` `Streamlit` `Machine Learning`
